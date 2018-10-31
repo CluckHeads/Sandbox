@@ -1,5 +1,7 @@
 package sandbox;
 
+// Add header with name
+
 public class Calculator {
 
   // nested interface
